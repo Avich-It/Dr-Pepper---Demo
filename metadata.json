@@ -1,0 +1,5 @@
+{
+  "name": "Dr Pepper: Liquid Newstalgia",
+  "description": "A high-converting, immersive experience for Dr Pepper featuring AI-powered flavor matching and dirty soda recipes.",
+  "requestFramePermissions": ["geolocation"]
+}
